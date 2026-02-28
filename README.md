@@ -105,6 +105,14 @@ For easier use, you can download the pre-packaged **release ZIP**:
 
 ---
 
+## 🌐 Try It Online
+
+You can **play and test the Arduino Brick Breaker game online** without hardware using Wokwi:  
+
+[Check it online](https://wokwi.com/projects/457216639815523329)
+
+---
+
 ## 📝 License
 
 This project is open-source under **MIT License**. Feel free to fork, modify, and share!
